@@ -105,3 +105,4 @@ venv.bak/
 07_word2vec/data/*
 */data/*
 */.data/*
+04_dense/tb/
